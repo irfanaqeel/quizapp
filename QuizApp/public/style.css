@@ -1,0 +1,52 @@
+.main{
+    background-color: #dbbe84;
+}
+.paper{
+    background-color: #7a0401;
+    margin: 0 10px 0 10px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.heading{
+    color: #7a0401;
+    text-align: center;
+    font-size: 55px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li p{
+    color: #ffcb3a;
+    border-radius: 10px;
+    margin: 10px 10px 10px 0 ;
+    font-weight: bold;
+}
+li form{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:  #e9d1b0;
+    color: #1e2425;
+    border-radius:10px ;
+    margin-right: 10px;
+    padding-left:10px ;
+}
+#btn-primary{
+    display: flex;
+    justify-content: center;
+    color: black;
+    margin-top: 10px;
+    padding: 10px 10px 10px 10px;
+}
+ol{
+    color: #ffcb3a;
+}
+#result{
+    text-align: center;
+    font-size: xx-large;
+}
+.rgh{
+    color: black;
+}
+.str{
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
